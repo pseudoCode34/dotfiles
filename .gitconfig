@@ -1,0 +1,10 @@
+[user]
+	name = John Williams
+	email = johnkt12@gmail.com
+	signingkey = 9C31ACDE94CA4340
+[color]
+	ui = auto
+[core]
+	editor = vim
+[commit]
+	gpgsign = true
